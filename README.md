@@ -8,7 +8,11 @@ Also useful when you need to merge on Pharo an updated Dolphin version of a proj
 
 ##How to use?
 
-1. clone
+**Do _not_** try it in your working image (shouldn't break things but not quite ready for that).
+
+Instead, follow these steps:
+
+1. go to a new directory and: clone git@github.com:sebastianconcept/DolphinToPharo.git
 2. type './load' and press ENTER for a fresh start
 3. wait for it to get a fresh image and open and load the code
 4. open a workspace and type:
