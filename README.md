@@ -4,7 +4,7 @@ DolphinToPharo hopefully allows you to get .pac code packages from Dolphin loade
 
 Please consider this software a hack to get a quick start with a port. This code can be considered in aplha state.
 
-Also good merging updated versions of projects in Dolphgin.
+Also useful when you need to merge on Pharo an updated Dolphin version of a project.
 
 ##How to use?
 
