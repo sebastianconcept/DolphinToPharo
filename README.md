@@ -13,9 +13,10 @@ Also useful when you need to merge on Pharo an updated Dolphin version of a proj
 3. wait for it to get a fresh image and open and load the code
 4. open a workspace and type:
 
-	DolphinToPharo load: 'STS.pac'
-	DolphinToPharo load: 'OmniBase.pac'
-	DolphinToPharo load: 'GLORP.pac'
+>DolphinToPharo load: 'STS.pac'
+DolphinToPharo load: 'OmniBase.pac'
+DolphinToPharo load: 'GLORP.pac'
+
 	
 or any other *.pac you want
 
