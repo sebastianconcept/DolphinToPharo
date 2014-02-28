@@ -1,0 +1,20 @@
+{
+	"category" : "DolphinToPharo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"comment",
+		"classNames",
+		"methodNames",
+		"binaryGlobalNames",
+		"globalAliases",
+		"prerequisites" ],
+	"name" : "DolphinPackageForImport",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

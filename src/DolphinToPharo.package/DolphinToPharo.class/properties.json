@@ -1,0 +1,14 @@
+{
+	"category" : "DolphinToPharo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DolphinToPharo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
